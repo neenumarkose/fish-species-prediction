@@ -2,14 +2,17 @@
 
 ## About the Project
 
-This dataset is a record of 7 common different fish species in fish market sales. With this dataset, a predictive model can be performed using machine friendly data and estimate the weight of fish can be predicted.
+This dataset is a record of 7 common different fish species in fish market sales. With this dataset, a predictive model can be performed using machine friendly data and estimate the weight of fish can be predicted. The weight of the fish based on species name of fish, vertical length, diagonal length, cross length, height, and diagonal width can be found using Random Classifier.
 The data is trained using RandomClassifier and the model is saved as pickle file. Also the model is hosted using Heroku and is available on https://fish-species-prediction-new.herokuapp.com/
+
 
 ## Dataset
 
 Dataset link: https://www.kaggle.com/datasets/aungpyaeap/fish-market
 
 Attribute Information:
+
+Dataset have about 160 data points and 7 features.
 
 Species
 Weight
