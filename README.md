@@ -15,11 +15,17 @@ Attribute Information:
 Dataset have about 160 data points and 7 features.
 
 Species
+
 Weight
+
 Length1
+
 Length2
+
 Length3
+
 Height
+
 Width
 
 
